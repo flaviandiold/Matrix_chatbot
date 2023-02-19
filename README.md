@@ -1,4 +1,4 @@
-# Chatbot-for-Biginners
+# Chatbot-for-Beginners
 
 ### To run this code
 #### Pip install -r requirements.txt
